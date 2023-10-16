@@ -1,0 +1,59 @@
+KA*VN1187/13NOV21
+VN SYS INM-
+ 
+PRIME-FA  FCH-ADDR  SCHEDULE  FREQUNCY   LAST MAINT DATE
+C8CE0EBA  00000000  00000000  C8CE0EBC   ADD     30SEP19
+ 
+CC FLT CON ORG TRM  EFFECT DISCONT FRQUNCY NLG NBC ADJ SLS FACT
+VN1187   0 HPH SGN 28MAR21  -OPEN-  MTWT S  01  22     NO  YES
+ 
+LG  BRD OFF DEPT ARRV FRQUNCY G F ST EQP J DT AT TK OP NS ET
+01  HPH SGN 1310 1520  MTWT S      J 02J 0    1  DD    N  Y 
+ 
+LG  COMPARTMENT CLASSES
+     1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20
+     J -C -D -I -O  Y -B -M -S -H -K -L -Q -N -R -T -E -A -G -P
+    21 22                                                      
+    -X -V                                                      
+ 
+LG  COMPARTMENT MEALS
+01   S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S  S‡
+     S  S                                                      ‡
+ 
+FACTS VN1187  28MAR21-OPEN-      MTWT S   TTL   1
+ 1. ALL-                                                    
+LBMD 2019
+ 
+* LEG COMPARTMENT SECTION *
+LG BRD OFF CP CL ACT AUT ADJ BCP QTA
+01 HPH SGN 01 J  008 008 008  01    
+           02 C  002 002 002  01    
+           03 D  000 000 000  01    
+           04 I  000 000 000  01    
+           05 O  001 001 001  01    
+           06 Y  195 195 195  06    
+           07 B  195 195 195  06    
+           08 M  195 195 195  06    
+           09 S  030 030 030  06    
+           10 H  030 030 030  06    
+           11 K  030 030 030  06                               ‡
+           12 L  010 010 010  06                               ‡
+           13 Q  000 000 000  06    
+           14 N  000 000 000  06    
+           15 R  000 000 000  06    
+           16 T  000 000 000  06    
+           17 E  000 000 000  06    
+           18 A  000 000 000  06    
+           19 G  000 000 000  06    
+           20 P  000 000 000  06    
+           21 X  005 005 005  06    
+           22 V  000 000 000  06    
+
+===================
+OA Code share flights:
+===================
+PFX1187/13NOVHPH‡VIP‡CIP
+HPHSGN
+*********************
+TOTAL OSI ITEMS 00000
+===================

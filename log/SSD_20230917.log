@@ -1,0 +1,15 @@
+[2023-09-17 21:27:01][Application_Error][   at Business_RevenueCost_Unit.UnitGrid_CustomCallback(Object sender, ASPxGridViewCustomCallbackEventArgs e)
+   at DevExpress.Web.ASPxGridView.RaiseCustomCallback(ASPxGridCustomCallbackEventArgs e)
+   at DevExpress.Web.ASPxGridBase.CBCustomCallBack(String[] args)
+   at DevExpress.Web.ASPxGridBase.DoCallBackPostBack(String eventArgument)
+   at DevExpress.Web.ASPxGridBase.TryDoCallBackPostBack(String eventArgument)
+   at DevExpress.Web.ASPxGridBase.RaiseCallbackEvent(String eventArgument)
+   at DevExpress.Web.ASPxWebControl.System.Web.UI.ICallbackEventHandler.RaiseCallbackEvent(String eventArgument)]
+[2023-09-17 21:50:24][Application_Error][   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at Admin_Function.treeListMenu_CustomCallback(Object sender, TreeListCustomCallbackEventArgs e)
+   at DevExpress.Web.ASPxTreeList.ASPxTreeList.RaiseCustomCallback(TreeListCustomCallbackEventArgs e)
+   at DevExpress.Web.ASPxWebControl.System.Web.UI.ICallbackEventHandler.RaiseCallbackEvent(String eventArgument)]
+[2023-09-17 21:59:17][Application_Error][   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at Admin_Function.treeListMenu_CustomCallback(Object sender, TreeListCustomCallbackEventArgs e)
+   at DevExpress.Web.ASPxTreeList.ASPxTreeList.RaiseCustomCallback(TreeListCustomCallbackEventArgs e)
+   at DevExpress.Web.ASPxWebControl.System.Web.UI.ICallbackEventHandler.RaiseCallbackEvent(String eventArgument)]

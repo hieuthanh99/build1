@@ -1,0 +1,11 @@
+[2023-09-10 21:57:25][Application_Error][   at DevExpress.XtraReports.Native.DataSourceFiller.Execute()
+   at DevExpress.XtraReports.UI.XtraReportBase.FillDataSources(Boolean skipIfFilled)
+   at DevExpress.XtraReports.UI.XtraReport.DevExpress.XtraReports.IReport.CreateDocumentCore(Single progressRange, Boolean buildForInstantPreview)
+   at DevExpress.XtraReports.Native.DocumentCreator.Create(Single progressRange, Boolean buildForInstantPreview)
+   at DevExpress.XtraReports.UI.XtraReport.CreateIfEmpty(Single progressRange, Boolean buildPagesInBackground)
+   at DevExpress.XtraReports.UI.XtraReport.ExportToXlsx(Stream stream, XlsxExportOptions options)
+   at Report_RevCost_Division.CreateXlsxFileReport()
+   at DevExpress.Web.ASPxSpreadsheet.ASPxSpreadsheet.Open(String documentId, DocumentFormat format, Func`1 contentAccessorByStream)
+   at Report_RevCost_Division.ASPxCallbackPanel1_Callback(Object sender, CallbackEventArgsBase e)
+   at DevExpress.Web.ASPxCallbackPanel.OnCallback(CallbackEventArgsBase e)
+   at DevExpress.Web.ASPxWebControl.System.Web.UI.ICallbackEventHandler.RaiseCallbackEvent(String eventArgument)]
